@@ -1,5 +1,5 @@
 ### My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarovfrontend&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehtyarev&layout=compact&langs_count=6&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
