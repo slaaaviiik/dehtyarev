@@ -1,9 +1,6 @@
 ### Languages and Tools:
-![VScode](https://img.shields.io/badge/-VScode-000?style=flat&logo=Visual-Studio-Code&logoColor=007ACC)
-![WebStorm](https://img.shields.io/badge/-WebStorm-000?style=flat&logo=WebStorm&logoColor=14a0d7)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=CSS3&logoColor=007ACC)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=SASS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![Javascript](https://img.shields.io/badge/-JavaScript-000?&logo=Javascript)
